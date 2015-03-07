@@ -1,0 +1,9 @@
+#sbh-root {
+	color: #000;
+	font-size: 1.3em;
+}
+
+.sbh-text {
+	position: fixed;
+	left: 100%;
+}
